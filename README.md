@@ -2,7 +2,7 @@
 
 [TOC]
 
-## Formal Verification Category
+## Formal Verification Category
 
 ### Equivalce Checking
 
@@ -18,7 +18,7 @@ Comparing different RTL code or gate level code of the same design to make sure 
 
 Tools: Mentor `SLEC`; OneSpin `EC-RTL`; Cadence `JasperGold`; Synopsys `Hector`; ATEC `ATEC`.
 
-###Formal Assertion Based Verification
+### Formal Assertion Based Verification
 
 F-ABV verifies that the properties of your design source code functionality match those described in your spec. 
 
@@ -118,7 +118,7 @@ ATEC: A Tool for Equivalence Checking http://tukarla.com/
 
 
 
-###Vendor: Real Intent
+## Vendor: Real Intent
 
 Real Intent: The founders came out of Sun Microsystems 15 years ago.  Originally they developed a formal verification platform, then focused on specific apps.
 
@@ -126,13 +126,13 @@ Meridian CDC http://www.realintent.com/real-intent-products/meridian-cdc/
 
 
 
-### Vendor: Arerant
+## Vendor: Arerant
 
 SolidSED: http://www.averant.com/products-solidSEC.html
 
 
 
-### Consulting: Oski Tech
+## Consulting: Oski Tech
 
 Oski http://www.oskitechnology.com/
 
@@ -146,7 +146,7 @@ I am an employee of ATEC. To be neutral, the statics in this document directly c
 
 ## Reference
 
-[DeepChip: Jim Hogan on how "this is not your father's formal verification"](http://www.deepchip.com/items/0558-01.html) how dramatically formal verification has grown over the last 20 years. 
+[DeepChip: Jim Hogan on how "this is not your father's formal verification"](http://www.deepchip.com/items/0558-01.html) how dramatically formal verification has grown over the last 20 years. 
 
 [DeepChip: Where Formal ABV whomps HDL simulation for chip verification](http://www.deepchip.com/items/0558-02.html)
 
