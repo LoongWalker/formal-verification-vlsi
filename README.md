@@ -1,6 +1,27 @@
 # Formal Verification VLSI
 
-[TOC]
+<!-- TOC -->
+
+- [Formal Verification VLSI](#formal-verification-vlsi)
+    - [Formal Verification Category](#formal-verification-category)
+        - [Equivalce Checking](#equivalce-checking)
+            - [C-to-RTL](#c-to-rtl)
+            - [RTL-to-RTL](#rtl-to-rtl)
+        - [Formal Assertion Based Verification](#formal-assertion-based-verification)
+        - [Formal Apps](#formal-apps)
+    - [Formal Verification Tool](#formal-verification-tool)
+    - [Vendor: Cadence](#vendor-cadence)
+    - [Vendor: Mentor](#vendor-mentor)
+    - [Vendor: OneSpin](#vendor-onespin)
+    - [Vendor: Synopsys](#vendor-synopsys)
+    - [Vendor: ATEC](#vendor-atec)
+    - [Vendor: Real Intent](#vendor-real-intent)
+    - [Vendor: Arerant](#vendor-arerant)
+    - [Consulting: Oski Tech](#consulting-oski-tech)
+    - [Disclaimer](#disclaimer)
+    - [Reference](#reference)
+
+<!-- /TOC -->
 
 ## Formal Verification Category
 
@@ -78,7 +99,7 @@ Conformal Equivalence Checker - Cadence https://www.cadence.com/content/cadence-
 
 
 
-##Vendor: Mentor
+## Vendor: Mentor
 
 Mentor: Acquired 0-In in 2004, used as the technology basis of their Questa Formal Verification.  Acquired Calypto in 2015.
 
