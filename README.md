@@ -15,8 +15,8 @@
     - [Vendor: OneSpin](#vendor-onespin)
     - [Vendor: Synopsys](#vendor-synopsys)
     - [Vendor: ATEC](#vendor-atec)
-    - [Vendor: Real Intent](#vendor-real-intent)
-    - [Vendor: Arerant](#vendor-arerant)
+    - [Vendor: RealIntent](#vendor-real-intent)
+    - [Vendor: Averant](#vendor-averant)
     - [Consulting: Oski Tech](#consulting-oski-tech)
     - [Disclaimer](#disclaimer)
     - [Reference](#reference)
@@ -105,7 +105,7 @@ Mentor: Acquired 0-In in 2004, used as the technology basis of their Questa Form
 
 Questa Formal Verification Apps https://www.mentor.com/products/fv/questa-formal-verification-apps
 
-Questa Sequential Logic Equivalence Check https://www.mentor.com/products/fv/questa-slec
+Questa SLEC (0-In) https://www.mentor.com/products/fv/questa-slec
 
 
 
@@ -125,7 +125,7 @@ Synopsys: Acquired the Chrysalis formal technology through their 2001 Avanti mer
 
 VC Formal https://www.synopsys.com/verification/static-and-formal-verification/vc-formal.html
 
-Hector https://www.synopsys.com/jp2/Tools/Verification/FunctionalVerification/Pages/HECTOR.aspx
+Hector (now part of VC Formal) https://www.synopsys.com/jp2/Tools/Verification/FunctionalVerification/Pages/HECTOR.aspx
 
 Formality and Formality Ultra https://www.synopsys.com/implementation-and-signoff/signoff/formality-and-formality-ultra.html
 
@@ -139,17 +139,17 @@ ATEC: A Tool for Equivalence Checking http://tukarla.com/
 
 
 
-## Vendor: Real Intent
+## Vendor: RealIntent
 
 Real Intent: The founders came out of Sun Microsystems 15 years ago.  Originally they developed a formal verification platform, then focused on specific apps.
 
-Meridian CDC http://www.realintent.com/real-intent-products/meridian-cdc/
+Verix CDC http://www.realintent.com/real-intent-products/verix-cdc/
 
 
 
-## Vendor: Arerant
+## Vendor: Averant
 
-SolidSED: http://www.averant.com/products-solidSEC.html
+Solidify model checker http://www.averant.com/products-solidify.html
 
 
 
