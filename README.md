@@ -133,7 +133,7 @@ Formality and Formality Ultra https://www.synopsys.com/implementation-and-signof
 
 ## Vendor: ATEC
 
-ATEC: ATEC Technologies, Inc. is a startup technology company that specializes in Formal Verification. ATEC was founded in 2011 in Santa Clara. Currently, ATEC have technology support team in USA and China. The founders came out of NVIDIA 7 years ago.
+ATEC: ATEC Technologies, Inc. is a startup technology company that specializes in Formal Verification. ATEC was founded by ex-NVIDIA employee in 2011 in Santa Clara. Currently, ATEC has technology support team in USA and China.
 
 ATEC: A Tool for Equivalence Checking http://tukarla.com/
 
